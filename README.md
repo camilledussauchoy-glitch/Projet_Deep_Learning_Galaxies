@@ -13,3 +13,8 @@ Conduite du projet :
 train et test sets : leur usage est obligatoire pour évaluer les résultats ;
 résultats : plusieurs modèles (de complexité croissante) devront être testés, et leurs résultats rapportés dans un tableau ;
 méthodes existantes : il est conseillé de chercher dans la littérature scientifique ou technique les méthodes de Machine Learning/Deep Learning habituellement utilisées pour le dataset et la tâche choisis.
+
+
+Cours: Pierre Wolinski 
+Note : 17,25
+Rapport : voir document rapport_Dussauchoy_Ercelik
